@@ -2,7 +2,7 @@
   Xin chào! 👋 Tôi là [Lý Ngọc Long]
 </h1>
 <h3 align="center">
-  Một Kỹ sư Phần mềm/Lập trình viên [Android & .NET] đến từ [Hà Nội, Việt Nam]
+  Một Kỹ sư Phần mềm/Lập trình viên đến từ [Hà Nội, Việt Nam]
 </h3>
 
 <p align="center">
@@ -12,13 +12,12 @@
 ---
 
 <p align="left">
-  🔭 Tôi hiện đang làm việc trên [Tên dự án cá nhân, ví dụ: Ứng dụng Quản lý Chi tiêu Android].<br>
-  🌱 Tôi hiện đang học [Công nghệ bạn đang học, ví dụ: Jetpack Compose và .NET MAUI].<br>
-  👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án [Loại dự án, ví dụ: mã nguồn mở về .NET].<br>
-  🤔 Tôi đang cần giúp đỡ về [Thứ bạn đang vướng mắc, ví dụ: Tối ưu hóa truy vấn trong SQL Server].<br>
+  🔭 Tôi hiện đang làm việc trên [Web quản lý trung tâm Anh Ngữ, Web quản lý bán nội thất, ...].<br>
+  🌱 Tôi hiện đang học tại UNETI.<br>
+  👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án [.NET, Java, Flutter,... ].<br>
   💬 Hỏi tôi về bất cứ điều gì liên quan đến: <strong>C#, .NET, Java, Kotlin (Android)</strong>.<br>
-  📫 Cách liên lạc với tôi: [Email-cua-ban@gmail.com] hoặc [Link LinkedIn của bạn].<br>
-  ⚡ Thông tin thú vị: [Một sở thích cá nhân, ví dụ: Tôi thích chơi guitar và chạy bộ].
+  📫 Cách liên lạc với tôi: [lnlong.infor@gmail.com] hoặc [https://www.linkedin.com/in/lnlonggg/].<br>
+  ⚡ Thông tin thú vị: [Tôi thích chơi nghe nhạc và chạy bộ].
 </p>
 
 ---
@@ -56,13 +55,13 @@
 
 <h2 align="center">🤝 Kết nối với tôi</h2>
 <p align="center">
-  <a href="[Link LinkedIn của bạn]" target="_blank">
+  <a href="[https://www.linkedin.com/in/lnlonggg/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[Link Facebook của bạn (nếu muốn)]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="mailto:[Email-cua-ban@gmail.com]" target="_blank">
+  <a href="mailto:[lnlong.infor@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
