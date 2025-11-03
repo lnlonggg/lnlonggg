@@ -6,7 +6,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UzZTIxY2YyYmMyOGQ3YmRkYmFmY2YxM2YxM2Y0MDkxY2Q0M2YyMSZlcD12MV9pbnRlcm5hbF9naWZzMl9zZWFyY2gmc3Q9Z2VuZXJhdG9y/l49Jz1tNaf3Jc2x1e/giphy.gif" alt="Coding GIF" width="600">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Cat GIF" width="600">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/2IodT9v3pP16jGzD8S/giphy.gif" alt="Developer GIF" width="600">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggEsaBfK8/giphy.gif" alt="Fast Typing GIF" width="600">
 </p>
 
 ---
