@@ -8,12 +8,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Cat GIF" width="600">
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/2IodT9v3pP16jGzD8S/giphy.gif" alt="Developer GIF" width="600">
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggEsaBfK8/giphy.gif" alt="Fast Typing GIF" width="600">
-</p>
+
 
 ---
 
