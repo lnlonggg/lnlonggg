@@ -1,5 +1,5 @@
 <h1 align="center">
-  Xin chào! 👋 Tôi là [Lý Ngọc Long]
+  Xin chào! Tôi là [Lý Ngọc Long]
 </h1>
 <h3 align="center">
   Một Kỹ sư Phần mềm/Lập trình viên đến từ [Hà Nội, Việt Nam]
@@ -12,17 +12,17 @@
 ---
 
 <p align="left">
-  🔭 Tôi hiện đang làm việc trên [Web quản lý trung tâm Anh Ngữ, Web quản lý bán nội thất, ...].<br>
-  🌱 Tôi hiện đang học tại UNETI.<br>
-  👯 Tôi đang tìm kiếm cơ hội hợp tác trong các dự án [.NET, Java, Flutter,... ].<br>
-  💬 Hỏi tôi về bất cứ điều gì liên quan đến: <strong>C#, .NET, Java, Kotlin (Android)</strong>.<br>
-  📫 Cách liên lạc với tôi: [lnlong.infor@gmail.com] hoặc [https://www.linkedin.com/in/lnlonggg/].<br>
-  ⚡ Thông tin thú vị: [Tôi thích chơi nghe nhạc và chạy bộ].
+  Tôi hiện đang làm việc trên [Web quản lý trung tâm Anh Ngữ, Web quản lý bán nội thất, ...].<br>
+  Tôi hiện đang học tại UNETI.<br>
+  Tôi đang tìm kiếm cơ hội hợp tác trong các dự án [.NET, Java, Flutter,... ].<br>
+  Hỏi tôi về bất cứ điều gì liên quan đến: <strong>C#, .NET, Java, Kotlin (Android)</strong>.<br>
+  Cách liên lạc với tôi: [lnlong.infor@gmail.com] hoặc [https://www.linkedin.com/in/lnlonggg/].<br>
+  Thông tin thú vị: [Tôi thích chơi nghe nhạc và chạy bộ].
 </p>
 
 ---
 
-<h2 align="center">🛠️ Ngôn ngữ và Công cụ của tôi</h2>
+<h2 align="center">Ngôn ngữ và Công cụ của tôi</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">📊 Thống kê GitHub của tôi</h2>
+<h2 align="center">Thống kê GitHub của tôi</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnlonggg&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Thống kê GitHub của [lnlonggg]">
 </p>
@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">🤝 Kết nối với tôi</h2>
+<h2 align="center">Kết nối với tôi</h2>
 <p align="center">
   <a href="[https://www.linkedin.com/in/lnlonggg/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
