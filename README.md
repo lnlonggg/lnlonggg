@@ -2,7 +2,7 @@
   Xin chào! Tôi là Lý Ngọc Long
 </h1>
 <h3 align="center">
-  Một Kỹ sư Phần mềm/Lập trình viên đến từ Hà Nội, Việt Nam
+  Một Sinh viên ngành Công Nghệ Thông Tin từ Hà Nội, Việt Nam
 </h3>
 
 <!-- <p align="center">
