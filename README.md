@@ -5,9 +5,9 @@
   Một Kỹ sư Phần mềm/Lập trình viên đến từ Hà Nội, Việt Nam
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Cat GIF" width="600">
-</p>
+</p> -->
 
 ---
 
