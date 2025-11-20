@@ -39,9 +39,6 @@
 ---
 
 <h2 align="center">Thống kê GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lnlonggg&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stat GitHub của lnlonggg">
-</p>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnlonggg&layout=compact&theme=dracula&hide_border=true" alt="Ngôn ngữ hay dùng của lnlonggg">
